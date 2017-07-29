@@ -1,0 +1,7 @@
+[package]
+name = "suckpdf"
+version = "0.1.0"
+authors = ["inkyu <gofiri@gmail.com>"]
+
+[dependencies]
+lopdf = "0.10.0"
